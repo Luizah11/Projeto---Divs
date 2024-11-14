@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quadro</title>
+    <link rel="shortcut icon" href="image.png">
+    <style>
+        div {
+            height: 400px; 
+            width: 400px;
+ 
+            border-width: 10px;
+            border-style: solid;
+            border-color: rgb(111, 69, 179);
+            border-radius: 50%;
+
+            background-image: url(image.png);
+            text-align: center;
+            box-shadow: inset 10px 10px 23px 23px;
+            background-size: cover;
+
+            /* padding-top: 50px;
+            padding-left:10px;
+            padding-right:50px;
+            padding-bottom:10px; */
+            padding: 10px;
+
+            outline-width: 50px;
+            outline-style: groove;
+            outline-color: rgba(0, 0, 0, 0.381);
+            
+        
+            margin: 180px;
+            margin-top: 100px;
+            margin-bottom: 160px;
+
+            border-bottom: 10px;
+            border-color: rgb(16, 24, 24);
+            
+        }
+        
+        p {
+            padding-top: 300px;
+            font-style: italic ;
+            font-size: 50px;
+            color: rgb(228, 214, 217);
+            font-weight: bold ;
+          }
+    </style>
+</head>
+<body>
+    <div>
+        <p>Lopes</p>
+    </div>
+</body>
+</html>
